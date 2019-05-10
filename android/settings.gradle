@@ -1,0 +1,3 @@
+rootProject.name = 'time_to_go_out_3190'
+
+include ':app'
